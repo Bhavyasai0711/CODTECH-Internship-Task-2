@@ -1,7 +1,14 @@
 # CODTECH-Internship-Task-2
 Model Evaluation and Comparision
 
-OVERVIEW :
+Name : M. Bhavya Sai
+Company: CODTECH IT SOLUTIONS
+Intern ID: CT6WDS2250
+Domain : Artificial Intelligence
+Duration : 30Oct 2024 - 15Dec2024
+Mentor: Neela Santhosh Kumar
+
+OVERVIEW OF THE PROJECT:
 
 Project: MODEL EVALUATION AND COMPARISION
 Data Preprocessing and Model Evaluation Pipeline
